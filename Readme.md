@@ -15,3 +15,5 @@ simplified models to find solutions and a model with higher fidelity and more co
 non-linearities to evaluate each solution. 
 
 
+The main interface for the entry points in the InstanceManager found in `src/instance_manager.py` class which contains the links to all the relevant 
+information of a given solve. An example of how this can be called can be found in the `scripts/main.py` file.
